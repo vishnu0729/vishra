@@ -19,7 +19,11 @@ body {
     font-size: 2.5em;
     color: #d32f2f;
   }
-  
+
+  .header_text {
+  text-align: center;
+  }
+
   .buttons {
     margin-top: 20px;
   }
