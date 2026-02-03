@@ -7,7 +7,7 @@ const messages = [
     "If you say no, my manasu will broke..",
     "Yes slu cheloo...",
     "Aii mundaa olungaa yes slu d ..",
-    "Buttkuttyy...please d chello"
+    "Buttkuttyy...please d chello",
     "Ok fine, I will stop asking...",
     "Just kidding, say yes please my love!...Ramyaa maa ❤️"
 ];
